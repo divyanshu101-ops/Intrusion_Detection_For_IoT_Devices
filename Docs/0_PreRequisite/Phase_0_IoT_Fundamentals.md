@@ -306,6 +306,6 @@ Before moving forward, be able to explain:
 
 ---
 
-# 🔥 PHASE 0 IN ONE LINE
+# PHASE 0 IN ONE LINE
 
 **IoT Device → Performs Function → Communicates → Generates Traffic → Attack Changes Traffic → IDS Detects the Change**

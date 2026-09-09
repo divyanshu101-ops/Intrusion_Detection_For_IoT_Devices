@@ -1,4 +1,4 @@
-# 🔐 Deep Learning Based Intrusion Detection for IoT Devices
+# Deep Learning Based Intrusion Detection for IoT Devices
 
 ## Prerequisite Learning Roadmap
 
@@ -53,7 +53,7 @@ Study attacks relevant to IoT network intrusion detection:
 * DoS / DDoS
 * SYN Flood
 * UDP Flood
-* ICMP Flood
+* ICMP Floodclea
 * Port Scanning
 * Host Discovery / Ping Sweep
 * Brute Force

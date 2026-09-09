@@ -1214,7 +1214,7 @@ The key idea is:
 
 ---
 
-# 🔥 PHASE 1 FINAL CHECKPOINT
+# PHASE 1 FINAL CHECKPOINT
 
 Before moving to Phase 2, you should be able to look at something like:
 

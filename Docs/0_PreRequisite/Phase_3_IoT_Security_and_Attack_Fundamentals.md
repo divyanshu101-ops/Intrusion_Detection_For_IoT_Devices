@@ -1334,7 +1334,7 @@ This is one of the most important tables for the entire project.
 | Attack            | Typical Abnormal Behavior            |
 | ----------------- | ------------------------------------ |
 | DoS               | High traffic/resource consumption    |
-| DDoS               | High traffic from many sources       |
+| DDoS              | High traffic from many sources       |
 | SYN Flood         | Many SYNs, incomplete connections    |
 | UDP Flood         | High UDP packet/byte rate            |
 | ICMP Flood        | High ICMP packet rate                |
@@ -1695,7 +1695,7 @@ Mirai
 
 ---
 
-# 🔥 PHASE 3 FINAL MENTAL MODEL
+# PHASE 3 FINAL MENTAL MODEL
 
 ```text
                     IoT ATTACK
@@ -1728,7 +1728,7 @@ Mirai
 
 ---
 
-# 🔥 MOST IMPORTANT CONNECTION OF PHASE 3
+# MOST IMPORTANT CONNECTION OF PHASE 3
 
 ```text
 NORMAL DEVICE BEHAVIOR

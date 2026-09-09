@@ -991,7 +991,7 @@ Each protocol has a different purpose.
 | Typical port        | 1883              | 80                    |
 | Secure version      | MQTT over TLS     | HTTPS                 |
 | IoT relevance       | Very High         | High                  |
-| Central component   | Broker             | Server                |
+| Central component   | Broker            | Server                |
 
 Core difference:
 
@@ -1354,7 +1354,7 @@ Understand:
 
 ---
 
-# 🔥 PHASE 2 FINAL MENTAL MODEL
+# PHASE 2 FINAL MENTAL MODEL
 
 ```text
                  IoT DEVICE
@@ -1388,7 +1388,7 @@ Understand:
 
 ---
 
-# 🔥 MOST IMPORTANT CONNECTION
+# MOST IMPORTANT CONNECTION
 
 ```text
 PROTOCOL

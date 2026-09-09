@@ -1,6 +1,6 @@
-# 🔐 Deep Learning Based Intrusion Detection for IoT Devices
+# Deep Learning Based Intrusion Detection for IoT Devices
 
-## 🎯 Project Goal
+## Project Goal
 
 Build a research-oriented **Deep Learning based Intrusion Detection System (IDS) for IoT devices** by starting from fundamental dataset analysis and traditional machine-learning baselines, progressively training different Deep Learning architectures, conducting controlled experiments, comparing models using appropriate IDS metrics, and finally selecting and analyzing the best-performing model.
 
@@ -10,7 +10,7 @@ No web application, dashboard, API, or frontend is required.
 
 ---
 
-# 🗺️ COMPLETE PROJECT FLOW
+# COMPLETE PROJECT FLOW
 
 ```text
                     DEEP LEARNING BASED
@@ -895,7 +895,7 @@ Final comparison should include:
 
 ---
 
-# 🏆 FINAL MODEL SELECTION CRITERIA
+# FINAL MODEL SELECTION CRITERIA
 
 Do NOT select the winner using Accuracy alone.
 
@@ -985,7 +985,7 @@ These are future extensions, not mandatory parts of the current project.
 
 ---
 
-# 📊 FINAL PROJECT RESEARCH PIPELINE
+# FINAL PROJECT RESEARCH PIPELINE
 
 ```text
                  IoT IDS Fundamentals
@@ -1047,7 +1047,7 @@ These are future extensions, not mandatory parts of the current project.
 
 ---
 
-# 🎓 FINAL PROJECT OUTCOME
+# FINAL PROJECT OUTCOME
 
 By the end, the project should demonstrate:
 
